@@ -16,14 +16,14 @@ export const formLabelStartWidth = 140;
 
 const font = Inter({
   weight: [ /* '300', sm */ '400' /* (undefined, default) */, '500' /* md */, '600' /* lg */, '700' /* xl */],
-  subsets: ['latin'],
+  subsets: ['sarabun'],
   display: 'swap',
-  fallback: ['Helvetica', 'Arial', 'sans-serif'],
+  fallback: ['Sarabun', 'Arial', 'sans-serif'],
 });
 
 const jetBrainsMono = JetBrains_Mono({
   weight: ['400', '500', '600', '700'],
-  subsets: ['latin'],
+  subsets: ['sarabun'],
   display: 'swap',
   fallback: ['monospace'],
 });
