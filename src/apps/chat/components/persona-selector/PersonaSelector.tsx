@@ -72,7 +72,7 @@ function Tile(props: {
           //   },
           // }),
         } : {}),
-        flexDirection: 'column', gap: props.symbol === '🎭' ? 0.5 : 1.25, pt: 1.25,
+        flexDirection: 'column', gap: props.symbol === '🧙‍♂️' ? 0.5 : 1.25, pt: 1.25,
         ...props.sx,
       }}
     >
