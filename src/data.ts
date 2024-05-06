@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export type SystemPurposeId = 'Psychotherapist'| 'LegalAdvisor'|'Generic' |'CustomAI';
+export type SystemPurposeId = 'Psychotherapist'| 'LegalAdvisor'|'Generic' |'Custom';
 
 export const defaultSystemPurposeId: SystemPurposeId = 'Generic';
 
